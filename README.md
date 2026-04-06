@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="coding animation" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NsdWJ5cjI1Mmk4djFydG4za2w1b2lkNGF5M2xudTdyZzhod2YzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RnPzEvSW9uQldGR0V1SGRyUi9naWZ5LmdpZg/giphy.gif" width="100%" alt="coding animation" />
     </td>
   </tr>
 </table>
@@ -31,7 +31,10 @@
 
 <br>
 
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedElmansy1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElmansy1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
+
+<br>
