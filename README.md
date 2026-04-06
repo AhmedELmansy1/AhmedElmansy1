@@ -32,7 +32,7 @@
 - Flutter + AI Integration  
 - Clean UI + Real-time Analysis  
 
-🔗 *(حط لينك المشروع هنا بعد ما ترفعه)*
+🔗 *(https://github.com/AhmedELmansy1/Graduation_project.git)*
 
 ---
 
