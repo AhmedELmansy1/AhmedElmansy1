@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NsdWJ5cjI1Mmk4djFydG4za2w1b2lkNGF5M2xudTdyZzhod2YzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RnPzEvSW9uQldGR0V1SGRyUi9naWZ5LmdpZg/giphy.gif" width="100%" alt="coding animation" />
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="100%" alt="coding animation" />
     </td>
   </tr>
 </table>
@@ -31,10 +31,10 @@
 
 <br>
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElmansy1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElmansy1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElmansy1&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElmansy1&theme=tokyonight" width="48%" />
 </p>
 
 <br>
