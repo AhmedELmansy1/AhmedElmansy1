@@ -1,40 +1,27 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ahmed+Elmansy;A.K.A+Mansy+Gaming;Mobile+Dev+%7C+Cybersecurity+%7C+Forensics" alt="Typing SVG" />
-</h1>
+# 💫 About Me:
+🔭 I’m currently working on: AI-powered Flutter application for Image & Audio Forgery detection (My Graduation Project).<br><br>👯 I’m looking to collaborate on: Cybersecurity, Digital Forensics, and Reverse Engineering projects.<br><br>🤝 I’m looking for help with: Scaling AI models for real-time media analysis.<br><br>🌱 I’m currently learning: Advanced Binary Analysis and Malware Research.<br><br>💬 Ask me about: Flutter, Python, IDA Pro, and Application Security.<br><br>⚡ Fun fact: A Hardcore PUBG Mobile Player & a big Football Fan! ⚽🎮
 
-<br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%">
-      <h3><span style="color:#ff0055">👨‍💻 About Me</span></h3>
-      <ul>
-        <li>🔭 I’m building a <b><span style="color:#00e6ff">Flutter</span></b> app using <b><span style="color:#00ffaa">AI & Digital Forensics</span></b> for forgery detection.</li>
-        <li>🌱 Deeply interested in <b><span style="color:#ffcc00">Cybersecurity & Reverse Engineering</span></b>.</li>
-        <li>🛠️ Writing <b><span style="color:#ff3333">IDA Pro</span></b> scripts for binary analysis & anti-cheat.</li>
-        <li>🎮 Fun fact: Rank pushing in <b><span style="color:#ff8800">PUBG Mobile</span></b> & watching football! ⚽</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="100%" alt="coding animation" />
-    </td>
-  </tr>
-</table>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AhmedELmansy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ahmedelmansy1311) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedelmansy1311@gmail.com) 
 
-<h3 align="center"><span style="color:#a200ff">🛠️ Tech Stack & Tools</span></h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AhmedELmansy1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AhmedELmansy1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedELmansy1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AhmedELmansy1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElmansy1&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElmansy1&theme=tokyonight" width="48%" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AhmedELmansy1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AhmedELmansy1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
