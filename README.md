@@ -6,13 +6,15 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJmZDIzMmZkMjI0ZGRjMzllYjRjZTUyZGU5ZDRjZTRjZTRjZTRjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="320" />
 </div>
 
+---
+
 # 💫 About Me
 <p align="center">
-🔭 **Currently working on:** AI-powered Flutter app for Image & Audio Forgery Detection (Graduation Project).<br>
-👯 **Looking to collaborate on:** Cybersecurity, Digital Forensics, Reverse Engineering, Malware Analysis.<br>
-🤝 **Seeking help with:** Scaling AI models for real-time multimedia analysis.<br>
-🌱 **Currently learning:** Advanced Binary Analysis, Malware Research, Real-time AI deployment.<br>
-💬 **Ask me about:** Flutter, Python, IDA Pro, Application Security, Penetration Testing.<br>
+🔭 **Currently working on:** AI-powered Flutter app for Image & Audio Forgery Detection (Graduation Project)<br>
+👯 **Looking to collaborate on:** Cybersecurity, Digital Forensics, Reverse Engineering, Malware Analysis<br>
+🤝 **Seeking help with:** Scaling AI models for real-time multimedia analysis<br>
+🌱 **Currently learning:** Advanced Binary Analysis, Malware Research, Real-time AI deployment<br>
+💬 **Ask me about:** Flutter, Python, IDA Pro, Application Security, Penetration Testing<br>
 ⚡ **Fun fact:** Hardcore PUBG Mobile Player & Big Football Fan! ⚽🎮<br>
 📝 **Languages I speak:** Arabic 🇪🇬, English 🇬🇧
 </p>
@@ -21,22 +23,22 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://wa.me/201067995211" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://t.me/A_M_A_N_S_Y" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:ahmedelmansy1311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-elmansy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AhmedELmansy1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/201067995211" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a>
+  <a href="https://t.me/A_M_A_N_S_Y" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A6E1" /></a>
+  <a href="mailto:ahmedelmansy1311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
+  <a href="https://linkedin.com/in/ahmed-elmansy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
+  <a href="https://github.com/AhmedELmansy1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
 </p>
 
 ---
 
 ## 💻 My Skills (3D Animated)
 <p align="center">
-  <img src="https://progress-bar.dev/90/?title=Flutter&color=2563EB&animation=1s" alt="Flutter" title="Expert in Flutter" />
-  <img src="https://progress-bar.dev/85/?title=Dart&color=0175C2&animation=1s" alt="Dart" title="Proficient in Dart" />
-  <img src="https://progress-bar.dev/85/?title=Python&color=3776AB&animation=1s" alt="Python" title="Expert in Python & AI" />
-  <img src="https://progress-bar.dev/75/?title=ReverseEng&color=FF0000&animation=1s" alt="Reverse Engineering" title="Reverse Engineering & Malware Analysis" />
-  <img src="https://progress-bar.dev/80/?title=Firebase&color=039BE5&animation=1s" alt="Firebase" title="Backend & Realtime DB" />
+  <img src="https://progress-bar.dev/90/?title=Flutter&color=2563EB&animation=2s" alt="Flutter" title="Expert in Flutter" />
+  <img src="https://progress-bar.dev/85/?title=Dart&color=0175C2&animation=2s" alt="Dart" title="Proficient in Dart" />
+  <img src="https://progress-bar.dev/85/?title=Python&color=3776AB&animation=2s" alt="Python" title="Expert in Python & AI" />
+  <img src="https://progress-bar.dev/75/?title=ReverseEng&color=FF0000&animation=2s" alt="Reverse Engineering" title="Reverse Engineering & Malware Analysis" />
+  <img src="https://progress-bar.dev/80/?title=Firebase&color=039BE5&animation=2s" alt="Firebase" title="Backend & Realtime DB" />
 </p>
 
 ---
@@ -74,3 +76,10 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AhmedELmansy1&icon=5&color=0" alt="Visit Count" />
 </p>
+
+---
+
+<div align="center">
+  <p>✨ This README is fully 3D Animated & Interactive ✨</p>
+  <p>Hover over skills & badges for descriptions | Scroll down for animations</p>
+</div>
