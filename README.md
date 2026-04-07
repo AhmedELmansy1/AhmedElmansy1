@@ -2,9 +2,14 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=7c3aed&height=220&section=header&text=Ahmed%20Elmansy&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Cybersecurity%20|%20Flutter%20Dev&descSize=20&descAlignY=55)
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl5b2p0YW5xNmRrbmh2ZWpnbmh6ajEybDRqM2lzZ2t4M3F0Y3h5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4pAQv58ETJgRwoLxj/giphy.gif" width="400" />
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Elmansy+👋;Flutter+%26+Dart+Developer;Cybersecurity+Researcher;AI+%26+Digital+Forensics;Reverse+Engineering+%7C+IDA+Pro)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AhmedELmansy1&icon=5&color=6" />
   <img src="https://img.shields.io/github/followers/AhmedELmansy1?style=flat-square&logo=github&color=7c3aed" />
 </p>
 
@@ -12,41 +17,55 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me (The Cyber-Engineer)
 
-<table align="center">
-  <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h3>🎯 Expert In</h3>
-      <ul>
-        <li>🚀 <b>AI-powered Flutter</b>: Image & Audio Forgery Detection.</li>
-        <li>👯 <b>Collaboration</b>: Security Audits & Rev-Eng.</li>
-        <li>🌱 <b>Learning</b>: Binary Analysis & Kernel Exploitation.</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top;">
-      <h3>⚡ Fun & Fact</h3>
-      <ul>
-        <li>💬 Ask me about <b>Reverse Engineering</b>.</li>
-        <li>🎮 <b>PUBG</b> is where the real strategy happens.</li>
-        <li>⚽ <b>Football</b> is the only universal language.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRhOWhmczI5N2RwaWdtY3R5ajF4MG0xNjQ1czJvOG9ndm56YXp1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSj0Eaj5pE2M00/giphy.gif" width="200" style="margin-left: 20px;" />
+
+I am a passionate **Multi-Disciplinary Engineer** specializing at the intersection of Artificial Intelligence, Software Development, and Advanced Cybersecurity. My goal is to build secure-by-design intelligent systems.
+
+Here’s a deeper look into my dual life:
+
+### 🛡️ Cybersecurity & Digital Forensics
+* **Deep Tech:** Currently diving deep into **Malware Analysis** and **Kernel Level Exploitation**.
+* **Reverse Engineering:** Experienced with **IDA Pro** and Ghidra for static and dynamic analysis of binaries.
+* **Digital Forensics:** Special focus on **Media Integrity**—detecting AI-generated fakes (Deepfakes) and metadata forgery.
+
+### 🤖 AI & Development
+* **Computer Vision:** building models (CNNs, ViTs) for image analysis and classification.
+* **Flutter Expert:** Crafting seamless, secure, and performant mobile applications with Dart.
+* **Backend & Cloud:** Experienced with **Firebase** and deploying Python models via robust APIs (FastAPI/Flask).
+
+### 🎯 Key Goals
+* Finish my **Graduation Project** (The AI Forgery Detector) and publish it.
+* Achieve a prestigious cybersecurity certification (like OSCP or CISSP).
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack (Icons are Interactive! ✨)
 
 <div align="center">
 
-| Section | Skills & Tools |
-| :--- | :--- |
-| **Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| **Security** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![IDA](https://img.shields.io/badge/IDA_Pro-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white) |
-| **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+### **Development & Languages**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,bash,html,css" />
+</a>
 
+### **AI & Security Tools**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,firebase,linux,kali,git" />
+</a>
+
+</div>
+
+---
+
+## 🚀 Key Project: AI Forgery Detector
+
+<div align="center">
+  <a href="https://github.com/AhmedELmansy1/forgery-detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedELmansy1&repo=forgery-detector&theme=tokyonight&border_color=7c3aed&show_owner=false" width="400" />
+  </a>
+  <p><i>A cutting-edge tool for detecting manipulated media using CNNs, ELA analysis, and Spectrogram ML models. Flutter frontend + Python backend.</i></p>
 </div>
 
 ---
