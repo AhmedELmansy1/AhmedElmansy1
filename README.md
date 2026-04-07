@@ -6,13 +6,13 @@
 </div>
 
 # 💫 About Me
-🔭 **Currently working on:** AI-powered Flutter app for Image & Audio Forgery Detection (Graduation Project).<br>
-👯 **Looking to collaborate on:** Cybersecurity, Digital Forensics, Reverse Engineering, Malware Analysis.<br>
-🤝 **Seeking help with:** Scaling AI models for real-time multimedia analysis.<br>
-🌱 **Currently learning:** Advanced Binary Analysis, Malware Research, Real-time AI deployment.<br>
-💬 **Ask me about:** Flutter, Python, IDA Pro, Application Security, Penetration Testing.<br>
-⚡ **Fun fact:** Hardcore PUBG Mobile Player & Big Football Fan! ⚽🎮<br>
-📝 **Languages I speak:** Arabic 🇪🇬, English 🇬🇧
+🔭 **Currently working on:** AI-powered Flutter app for Image & Audio Forgery Detection (Graduation Project).  
+👯 **Looking to collaborate on:** Cybersecurity, Digital Forensics, Reverse Engineering, Malware Analysis.  
+🤝 **Seeking help with:** Scaling AI models for real-time multimedia analysis.  
+🌱 **Currently learning:** Advanced Binary Analysis, Malware Research, Real-time AI deployment.  
+💬 **Ask me about:** Flutter, Python, IDA Pro, Application Security, Penetration Testing.  
+⚡ **Fun fact:** Hardcore PUBG Mobile Player & Big Football Fan! ⚽🎮  
+📝 **Languages I speak:** Arabic 🇪🇬, English 🇬🇧  
 
 ---
 
@@ -37,15 +37,33 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-6F42C1?style=for-the-badge&logo=python&logoColor=white" />
+  <b>Flutter & Dart</b>
+  <br>
+  <img src="https://progress-bar.dev/90/?title=Flutter&color=2563EB" alt="Flutter" />
+  
+  <b>Python & AI</b>
+  <br>
+  <img src="https://progress-bar.dev/85/?title=Python&color=3776AB" alt="Python" />
+  
+  <b>Reverse Engineering & Malware Analysis</b>
+  <br>
+  <img src="https://progress-bar.dev/75/?title=ReverseEng&color=FF0000" alt="Reverse Engineering" />
+  
+  <b>Firebase & Backend</b>
+  <br>
+  <img src="https://progress-bar.dev/80/?title=Firebase&color=039BE5" alt="Firebase" />
+</p>
+
+---
+
+## 🏆 Achievements & Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Graduation_Project-AI_Forgery_App-blue" />
+  <img src="https://img.shields.io/badge/CTF_Competitions-Cybersecurity-success" />
+  <img src="https://img.shields.io/badge/Flutter_Apps-RealTime_AI-orange" />
+  <img src="https://img.shields.io/badge/Digital_Forensics-Expert-red" />
 </p>
 
 ---
@@ -59,14 +77,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedELmansy1&theme=radical&layout=compact" width="48%" />
 </p>
-
----
-
-## 🏆 Achievements
-- 🎓 Graduation Project: AI-based Image & Audio Forgery Detection App.
-- 🏅 Participated in several CTF & Cybersecurity challenges.
-- 💻 Built multiple Flutter apps with real-time AI integration.
-- 🔒 Skilled in Digital Forensics & Malware Reverse Engineering.
 
 ---
 
