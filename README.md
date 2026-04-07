@@ -15,6 +15,8 @@ jobs:
           github_user_name: AhmedELmansy1
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-neon.svg?palette=neon
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
