@@ -1,109 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Ahmed%20Elmansy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ahmed%20Elmansy&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Reverse+Engineer;AI+Developer;Digital+Forensics+Student" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Reverse+Engineer;AI+Security+Developer;Digital+Forensics+Specialist"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧑‍💻 Who Am I?
 
-💻 Cybersecurity & Digital Forensics Student  
-🎓 Working on **AI Forgery Detection System (Graduation Project)**  
-🔐 Interested in **Malware Analysis, Reverse Engineering & App Security**  
-⚡ Building real-world security tools  
-
----
-
-## 🚀 Live Activity (Dynamic)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedELmansy1&theme=tokyo-night" />
-</p>
+🎓 Cybersecurity & Digital Forensics Student  
+🧠 Specialized in **Reverse Engineering & Malware Analysis**  
+🚀 Building **AI-powered Security Applications**  
+🎯 Focused on real-world attack & defense techniques  
 
 ---
 
-## 🛡️ Featured Projects (Dynamic Style)
+# ⚔️ What I Do
 
-### 🔥 AI Forgery Detection App
+💣 Reverse Engineering (IDA Pro / x64dbg)  
+🧬 Malware Analysis (Static & Dynamic)  
+🛡️ Application Security & Exploit Analysis  
+🤖 AI for Media Forgery Detection  
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ AI Forgery Detection System
+> Graduation Project
+
 - Detect Image / Audio Manipulation  
-- Flutter + AI Integration  
-- Clean UI + Real-time Analysis  
+- AI Model Integration (Deep Learning)  
+- Flutter Frontend + Python Backend  
 
-🔗 *(https://github.com/AhmedELmansy1/Graduation_project.git)*
+🔗 https://github.com/AhmedELmansy1/image_forgery_app
 
 ---
 
-### 🔍 Malware Analysis Toolkit
-- Static + Dynamic Analysis  
+## 🔍 Malware Analysis Toolkit
 - File Behavior Monitoring  
+- Suspicious Activity Detection  
 - Reverse Engineering Support  
 
 ---
 
-### 🧠 Reverse Engineering Practice
-- Crackmes Solutions  
-- IDA Pro Notes  
-- Binary Analysis Scripts  
+## 🧠 Reverse Engineering Labs
+- Crackme Challenges Solutions  
+- Assembly Analysis Notes  
+- Binary Exploitation Practice  
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,git,linux" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedELmansy1&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=AhmedELmansy1&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedELmansy1&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🏆 Badges & Platforms
+# 🏆 Achievements & Platforms
 
 <p align="center">
-
-<!-- HackerRank -->
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
-
-<!-- TryHackMe -->
-<img src="https://img.shields.io/badge/TryHackMe-Top%20Learner-red?style=for-the-badge&logo=tryhackme"/>
-
-<!-- Hack The Box -->
-<img src="https://img.shields.io/badge/Hack%20The%20Box-Hacker-9FEF00?style=for-the-badge&logo=hackthebox"/>
-
+  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hack%20The%20Box-Hacker-9FEF00?style=for-the-badge&logo=hackthebox"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 Mission
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedELmansy1&theme=tokyonight&show_icons=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=AhmedELmansy1&theme=tokyonight" width="48%" />
-</p>
+> Build tools that detect, analyze, and prevent digital threats using AI.
 
 ---
 
-## 🎯 Goals 2026
-
-- 🔥 Become a **Professional Security Researcher**
-- 🧠 Master **Malware Analysis & Reverse Engineering**
-- 🚀 Build impactful **Cybersecurity Tools**
-- 💼 Land a job in **Offensive Security / Digital Forensics**
-
----
-
-## 🌍 Connect With Me
+# 🌐 Connect
 
 <p align="center">
   <a href="https://wa.me/201067995211"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/></a>
   <a href="https://t.me/A_M_A_N_S_Y"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram"/></a>
   <a href="mailto:ahmedelmansy1311@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://facebook.com/AhmedELmansy"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AhmedELmansy1&icon=6&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=AhmedELmansy1&icon=6&color=0"/>
 </div>
