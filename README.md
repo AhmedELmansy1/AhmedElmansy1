@@ -36,20 +36,22 @@
 
 ## 💻 My Skills (Interactive 3D)
 <p align="center">
+
+<!-- 3D Hover Skills -->
 <a href="#" title="Expert in Flutter">
-<img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="80" />
+<img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="90" style="border-radius:20px; transform: rotateY(15deg);" />
 </a>
 <a href="#" title="Proficient in Dart">
-<img src="https://media.giphy.com/media/l0HlGm6gA0goxLbbm/giphy.gif" width="80" />
+<img src="https://media.giphy.com/media/l0HlGm6gA0goxLbbm/giphy.gif" width="90" style="border-radius:20px; transform: rotateY(15deg);" />
 </a>
 <a href="#" title="Expert in Python & AI">
-<img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="80" />
+<img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="90" style="border-radius:20px; transform: rotateY(15deg);" />
 </a>
 <a href="#" title="Reverse Engineering & Malware Analysis">
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="80" />
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="90" style="border-radius:20px; transform: rotateY(15deg);" />
 </a>
 <a href="#" title="Backend & Realtime DB">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="90" style="border-radius:20px; transform: rotateY(15deg);" />
 </a>
 </p>
 
@@ -90,6 +92,6 @@
 </p>
 
 <div align="center">
-<p>✨ Fully Interactive 3D README ✨</p>
-<p>Hover on Skills & Badges to see descriptions | Scroll for animations</p>
+<p>✨ Fully Interactive 3D README – Portfolio Style ✨</p>
+<p>Hover Skills & Badges for details | Scroll for smooth animations | Dark/Light Mode Compatible</p>
 </div>
