@@ -59,7 +59,7 @@ Here’s a deeper look into my dual life:
 
 <div align="center">
   <a href="https://github.com/AhmedELmansy1/forgery-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedELmansy1&repo=forgery-detector&theme=dracula&border_color=00f2fe&bg_color=0D1117&show_owner=false&border_radius=15" width="450" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedELmansy1&repo=forgery-detector&theme=dracula&show_owner=false&border_radius=15" width="450" />
   </a>
   <p><i>A cutting-edge tool for detecting manipulated media using CNNs, ELA analysis, and Spectrogram ML models. Powered by a Flutter frontend & Python backend.</i></p>
 </div>
@@ -69,20 +69,22 @@ Here’s a deeper look into my dual life:
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" style="border-radius: 15px; margin-bottom: 20px;" />
+
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedELmansy1&theme=dracula&show_icons=true&count_private=true&border_color=7c3aed&bg_color=0D1117&border_radius=15" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedELmansy1&theme=dracula&show_icons=true&border_radius=15" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedELmansy1&theme=dracula&layout=compact&border_color=00f2fe&bg_color=0D1117&border_radius=15" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedELmansy1&theme=dracula&layout=compact&border_radius=15" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedELmansy1&theme=dracula&border_color=7c3aed&background=0D1117&border_radius=15" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedELmansy1&theme=dracula&border_radius=15" alt="GitHub Streak" width="80%" />
 </div>
 
 ---
