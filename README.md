@@ -11,13 +11,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AhmedELmansy1&icon=5&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedELmansy1&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AhmedELmansy1?style=flat-square&logo=github&color=00f2fe&labelColor=1e1e2e" alt="Followers" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AhmedELmansy1&theme=dracula&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AhmedELmansy1&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
 
