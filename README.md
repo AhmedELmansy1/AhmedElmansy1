@@ -17,8 +17,12 @@
   <img src="https://img.shields.io/badge/🎓_Benha_University-f472b6?style=for-the-badge" alt="education" />
 </p>
 
+<a href="https://amansy.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-amansy.vercel.app-7c5cff?style=for-the-badge&labelColor=1e1b4b" alt="Portfolio" height="42" />
+</a>
+
 <p>
-  <a href="https://github.com/AhmedELmansy1/Ahmed-Elmansy-Portfolio"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
+  <a href="https://amansy.vercel.app/"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/ahmed-elmansy-a6b494346"><b>💼 LinkedIn</b></a> &nbsp;•&nbsp;
   <a href="https://github.com/AhmedELmansy1?tab=repositories"><b>📂 Repositories</b></a> &nbsp;•&nbsp;
   <a href="mailto:ahmedelmansy1311@gmail.com"><b>📧 Email</b></a>
@@ -107,33 +111,31 @@ Cross-platform apps with **Flutter & Dart**, backed by **FastAPI / Flask / Fireb
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="32" alt="fire" /> Featured Projects
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="28" alt="brain" /> AI-Powered Digital Forensics System (SecureForensics AI)
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="28" alt="brain" /> SecureForensics AI
 
-Detects manipulated **images, audio and video** by combining deep learning with classic forensic techniques: **CNNs, ELA, Grad-CAM explainability, spectrogram models** and **SHA-256** integrity hashing. Flutter front end, Python back end.
+AI-powered digital forensics system that detects manipulated **images, audio and video** by combining deep learning with classic forensic techniques: **CNNs, ELA, Grad-CAM explainability, spectrogram models** and **SHA-256** integrity hashing. Python + FastAPI back end, Flutter front end.
 
 <div align="center">
-  <a href="https://github.com/AhmedELmansy1/forgery-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedELmansy1&repo=forgery-detector&theme=tokyonight&hide_border=true&border_radius=16" alt="forgery-detector" />
-  </a>
-  <a href="https://github.com/AhmedELmansy1/Ahmed-Elmansy-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedELmansy1&repo=Ahmed-Elmansy-Portfolio&theme=tokyonight&hide_border=true&border_radius=16" alt="portfolio" />
-  </a>
+
+<a href="https://amansy.vercel.app/projects/secureforensics-ai">
+  <img src="https://img.shields.io/badge/📖_Read_the_Case_Study-7c5cff?style=for-the-badge&labelColor=1e1b4b" alt="Case study" />
+</a>
+
 </div>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f1/512.gif" width="28" alt="phone" /> More Work
 
 <div align="center">
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| 🎮 **MANSY BOOST** *(in progress)* | Windows gaming optimizer: diagnostics, profiles & backups, optimizer, benchmark | Flutter Desktop |
-| ☀️ **Taqs** *(in progress)* | Arabic-first Egyptian weather & prayer-times app | Flutter, Open-Meteo |
-| ⚽ **Football Matches App** | Client app for live football matches | Flutter |
-| 🌅 **Solara** | Freelance client app | Flutter |
-| 🛍️ **Mansy Store** | Store app from my portfolio | Flutter |
-| 🎬 **Shoot Live** · 🌲 **Forests Team** | Flutter projects from my portfolio | Flutter |
-| 🧩 **ITI Final Project** | Clean Architecture, BLoC, Gemini AI and Wishlist | Flutter, Dart |
-| 🌐 **Portfolio** | Bilingual (EN/AR, RTL) personal site | Next.js 15, TypeScript, Tailwind |
+| Project | What it is | Stack | Link |
+|:--|:--|:--|:--|
+| ⚽ **Football Matches App** | Real-time match schedule and live scores, built for a freelance client | Flutter, REST APIs | [Case study](https://amansy.vercel.app/projects/football-matches-app) |
+| 🛍️ **Mansy Store** | Modern mobile e-commerce app with a streamlined shopping flow | Flutter, REST APIs | [Case study](https://amansy.vercel.app/projects/mansy-store) |
+| 🎬 **Shoot Live** | Sports streaming and match coverage app | Flutter, REST APIs | [Details](https://amansy.vercel.app/projects/shoot-live) |
+| 🌲 **Forests Team** | Team and community management app | Flutter | [Details](https://amansy.vercel.app/projects/forests-team) |
+| 🧩 **ITI Flutter Project** | Clean Architecture e-commerce app with BLoC, Gemini AI and Wishlist | Flutter, Dart | [Details](https://amansy.vercel.app/projects/iti-flutter-project) |
+| 🎮 **MANSY BOOST** | Windows desktop gaming optimization and performance utility | Flutter Desktop | [Details](https://amansy.vercel.app/projects/mansy-boost) |
+| 🌅 **Solara** | Custom client app focused on reliability and smooth UX | Flutter, REST APIs | [Details](https://amansy.vercel.app/projects/solara) |
 
 </div>
 
@@ -158,6 +160,7 @@ Detects manipulated **images, audio and video** by combining deep learning with 
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c5cff?style=for-the-badge&logo=vercel&logoColor=white)](https://amansy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elmansy-a6b494346)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelmansy1311@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201067995211)
